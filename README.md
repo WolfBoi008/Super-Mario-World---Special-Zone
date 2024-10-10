@@ -1,4 +1,4 @@
-# Super Mario World - Special Zone Goal
+# Archipelago Manual - Super Mario World - Special Zone Goal
 An Archipelago Manual for Super Mario World, with reaching the end of Special Zone being the Goal. Originally submitted for the #RemixItUp Async.
 
 ## **Notes**
