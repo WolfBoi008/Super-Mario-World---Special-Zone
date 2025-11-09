@@ -1,0 +1,239 @@
+[
+	{
+		"region": "Yoshi's Island 1",
+		"name": "Yoshi's Island 1 - Normal Exit",
+		"category": ["Yoshi's Island"],
+		"requires": []
+	},
+	{
+		"region": "Yoshi's Island 2",
+		"name": "Yoshi's Island 2 - Normal Exit",
+		"category": ["Yoshi's Island"],
+		"requires": []
+	},
+	{
+		"name": "Yoshi's Island 3 - Normal Exit",
+		"region": "Yoshi's Island 3",
+		"category": ["Yoshi's Island"],
+		"requires": []
+	},
+	{
+		"name": "Yoshi's Island 4 - Normal Exit",
+		"region": "Yoshi's Island 4",
+		"category": ["Yoshi's Island"],
+		"requires": []
+	},
+	{
+		"region": "Iggy's Castle",
+		"name": "Defeat Iggy",
+		"category": ["Iggy's Castle"],
+		"requires": []
+	},
+	{
+		"name": "The Mustard Button",
+		"region": "Yellow Switch Palace",
+		"category": ["Yellow Switch Palace"],
+		"requires": [],
+		"place_item": ["Mustard Blocks"]
+	},
+	{
+		"name": "Donut Plains 1 - Normal Exit",
+		"region": "Donut Plains 1 N",
+		"category": ["Donut Plains"],
+		"requires": []
+	},
+	{
+		"region": "Donut Plains 1 S",
+		"name": "Donut Plains 1 - Secret Exit",
+		"category": ["Donut Plains"],
+		"requires": []
+	},
+	{
+		"region": "Donut Plains 2 N",
+		"name": "Donut Plains 2 - Normal Exit",
+		"category": ["Donut Plains"],
+		"requires": []
+	},
+	{
+		"region": "Donut Plains 2 S",
+		"name": "Donut Plains 2 - Secret Exit",
+		"category": ["Donut Plains"],
+		"requires": []
+	},
+	{
+		"region": "Donut Plains 3",
+		"name": "Donut Plains 3 - Normal Exit",
+		"category": ["Donut Plains"],
+		"requires": []
+	},
+	{
+		"region": "Donut Plains 4",
+		"name": "Donut Plains 4 - Normal Exit",
+		"category": ["Donut Plains"],
+		"requires": []
+	},
+	{
+		"region": "Donut Secret 1 N",
+		"name": "Donut Secret 1 - Normal Exit",
+		"category": ["Donut Secret"],
+		"requires": []
+	},
+	{
+		"region": "Donut Secret 1 S",
+		"name": "Donut Secret 1 - Secret Exit",
+		"category": ["Donut Secret"],
+		"requires": "|Carry| AND |P-Switch|"
+	},
+	{
+		"region": "Donut Secret 2",
+		"name": "Donut Secret 2 - Normal Exit",
+		"category": ["Donut Secret"],
+		"requires": []
+	},
+	{
+		"region": "Donut Ghost House N",
+		"name": "Donut Ghost House - Normal Exit",
+		"category": ["Ghost Houses"],
+		"requires": []
+	},
+	{
+		"region": "Donut Ghost House S",
+		"name": "Donut Ghost House - Secret Exit",
+		"category": ["Ghost Houses"],
+		"requires": "|Climb|"
+	},
+	{
+		"region": "Donut Secret House N",
+		"name": "Donut Secret House - Normal Exit",
+		"category": ["Ghost Houses"],
+		"requires": []
+	},
+	{
+		"region": "Donut Secret House S",
+		"name": "Donut Secret House - Secret Exit",
+		"category": ["Ghost Houses"],
+		"requires": "|Carry| AND |Climb|"
+	},
+	{
+		"region": "Morton's Castle",
+		"name": "Defeat Morton",
+		"category": ["Morton's Castle"],
+		"requires": []
+	},
+	{
+		"region": "Green Switch Palace",
+		"name": "The Relish Button",
+		"category": ["Green Switch Palace"],
+		"requires": [],
+		"place_item": ["Relish Blocks"]
+	},
+	{
+		"region": "Star Road 1 N",
+		"name": "Star Road 1 - Normal Exit",
+		"category": ["Star Road"],
+		"requires": []
+	},
+	{
+		"region": "Star Road 1 S",
+		"name": "Star Road 1 - Secret Exit",
+		"category": ["Star Road"],
+		"requires": "|Carry|"
+	},
+	{
+		"region": "Star Road 2 N",
+		"name": "Star Road 2 - Normal Exit",
+		"category": ["Star Road"],
+		"requires": []
+	},
+	{
+		"region": "Star Road 2 S",
+		"name": "Star Road 2 - Secret Exit",
+		"category": ["Star Road"],
+		"requires": "|Carry|"
+	},
+	{
+		"region": "Star Road 3 N",
+		"name": "Star Road 3 - Normal Exit",
+		"category": ["Star Road"],
+		"requires": []
+	},
+	{
+		"region": "Star Road 3 S",
+		"name": "Star Road 3 - Secret Exit",
+		"category": ["Star Road"],
+		"requires": "|Carry|"
+	},
+	{
+		"region": "Star Road 4 N",
+		"name": "Star Road 4 - Normal Exit",
+		"category": ["Star Road"],
+		"requires": []
+	},
+	{
+		"region": "Star Road 4 S",
+		"name": "Star Road 4 - Secret Exit",
+		"category": ["Star Road"],
+		"requires": "|Carry| AND (|Yoshi| OR (|Progressive Powerup:3| AND |Run|))"
+	},
+	{
+		"region": "Star Road 5 N",
+		"name": "Star Road 5 - Normal Exit",
+		"category": ["Star Road"],
+		"requires": []
+	},
+	{
+		"region": "Star Road 5 S",
+		"name": "Star Road 5 - Secret Exit",
+		"category": ["Star Road"],
+		"requires": "|Carry|"
+	},
+	{
+		"region": "Gnarly",
+		"name": "Gnarly - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	},
+	{
+		"region": "Tubular",
+		"name": "Tubular - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	},
+	{
+		"region": "Way Cool",
+		"name": "Way Cool - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	},
+	{
+		"region": "Awesome",
+		"name": "Awesome - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	},
+	{
+		"region": "Groovy",
+		"name": "Groovy - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	},
+	{
+		"region": "Mondo",
+		"name": "Mondo - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	},
+	{
+		"region": "Outrageous",
+		"name": "Outrageous - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	},
+	{
+		"region": "Funky",
+		"victory": true,
+		"name": "Funky - Normal Exit",
+		"category": ["Special Zone"],
+		"requires": []
+	}
+]

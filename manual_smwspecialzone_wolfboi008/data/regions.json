@@ -1,0 +1,160 @@
+{
+	"Yoshi's Island 1": 	{
+		"connects_to": ["Yellow Switch Palace"],
+		"starting": true,
+		"requires": []
+	},
+	"Yoshi's Island 2": 	{
+		"connects_to": ["Yoshi's Island 3"],
+		"starting": true,
+		"requires": []
+	},
+	"Yoshi's Island 3": 	{
+		"connects_to": ["Yoshi's Island 4"],
+		"requires": []
+	},
+	"Yoshi's Island 4": 	{
+		"connects_to": ["Iggy's Castle"],
+		"requires": []
+	},
+	"Iggy's Castle": 	{
+		"connects_to": ["Donut Plains 1 N","Donut Plains 1 S"],
+		"requires": "|Climb|"
+	},
+	"Yellow Switch Palace": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Donut Plains 1 N": 	{
+		"connects_to": ["Donut Plains 2 N","Donut Plains 2 S"],
+		"requires": []
+	},
+	"Donut Plains 2 N": 	{
+		"connects_to": ["Donut Ghost House N","Donut Ghost House S"],
+		"requires": []
+	},
+	"Donut Plains 3": 	{
+		"connects_to": ["Donut Plains 4"],
+		"requires": []
+	},
+	"Donut Plains 4": 	{
+		"connects_to": ["Morton's Castle"],
+		"requires": []
+	},
+	"Donut Secret 1 N": 	{
+		"connects_to": ["Donut Ghost House N","Donut Ghost House S"],
+		"requires": "|Swim|"
+	},
+	"Donut Secret 2": 	{
+		"connects_to": ["Donut Plains 3"],
+		"requires": []
+	},
+	"Donut Ghost House N": 	{
+		"connects_to": ["Donut Plains 3"],
+		"requires": "|Progressive Powerup:3| AND |Run|"
+	},
+	"Donut Secret House N": 	{
+		"connects_to": ["Donut Secret 2"],
+		"requires": "|P-Switch|"
+	},
+	"Morton's Castle": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Green Switch Palace": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Star Road 1 N": 	{
+		"connects_to": [],
+		"requires": "|Progressive Powerup:1| AND |Spin Jump|"
+	},
+	"Star Road 2 N": 	{
+		"connects_to": [],
+		"requires": "|Swim|"
+	},
+	"Star Road 3 N": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Star Road 4 N": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Star Road 5 N": 	{
+		"connects_to": [],
+		"requires": "|P-Switch|"
+	},
+	"Gnarly": 	{
+		"connects_to": ["Tubular"],
+		"requires": "|Climb| AND |P-Switch|"
+	},
+	"Tubular": 	{
+		"connects_to": ["Way Cool"],
+		"requires": "|P-Balloon|"
+	},
+	"Way Cool": 	{
+		"connects_to": ["Awesome"],
+		"requires": "|Climb| OR |Yoshi|"
+	},
+	"Awesome": 	{
+		"connects_to": ["Groovy"],
+		"requires": "|Super Star| OR |Progressive Powerup:2|"
+	},
+	"Groovy": 	{
+		"connects_to": ["Mondo"],
+		"requires": "|Progressive Powerup:1|"
+	},
+	"Mondo": 	{
+		"connects_to": ["Outrageous"],
+		"requires": "|Swim|"
+	},
+	"Outrageous": 	{
+		"connects_to": ["Funky"],
+		"requires": "|Progressive Powerup:1|"
+	},
+	"Funky": 	{
+		"connects_to": [],
+		"requires": "|Yoshi| OR |Carry| OR |Progressive Powerup:3| AND |Run|"
+	},
+	"Donut Plains 1 S": 	{
+		"connects_to": ["Donut Secret 1 N","Donut Secret 1 S"],
+		"requires": "(|Carry| AND |Run| AND |Relish Blocks|) OR (|Carry| AND |Progressive Powerup:3| AND |Run|)"
+	},
+	"Donut Plains 2 S": 	{
+		"connects_to": ["Green Switch Palace"],
+		"requires": "|Carry| AND |Yoshi|"
+	},
+	"Donut Secret 1 S": 	{
+		"connects_to": ["Donut Secret House N","Donut Secret House S"],
+		"requires": "|Swim| AND |Carry| AND |P-Switch|"
+	},
+	"Donut Ghost House S": 	{
+		"connects_to": [],
+		"requires": "|Climb| OR (|Progressive Powerup:3| AND |Run|)"
+	},
+	"Donut Secret House S": 	{
+		"connects_to": ["Star Road 1 N","Star Road 1 S"],
+		"requires": "|P-Switch| AND |Carry| AND |Climb|"
+	},
+	"Star Road 1 S": 	{
+		"connects_to": ["Star Road 2 N","Star Road 2 S"],
+		"requires": "|Progressive Powerup:1| AND |Spin Jump| AND |Carry|"
+	},
+	"Star Road 2 S": 	{
+		"connects_to": ["Star Road 3 N","Star Road 3 S"],
+		"requires": "|Swim| AND |Carry|"
+	},
+	"Star Road 3 S": 	{
+		"connects_to": ["Star Road 4 N","Star Road 4 S"],
+		"requires": "|Carry|"
+	},
+	"Star Road 4 S": 	{
+		"connects_to": ["Star Road 5 N","Star Road 5 S"],
+		"requires": []
+	},
+	"Star Road 5 S": 	{
+		"connects_to": ["Gnarly"],
+		"requires": "|Yoshi| AND |Carry|"
+}
+}

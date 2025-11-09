@@ -1,0 +1,86 @@
+[
+	{
+		"count": "3",
+		"name": "Progressive Powerup",
+		"category": ["Powerups"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Super Star",
+		"category": ["Powerups"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "P-Switch",
+		"category": ["Powerups"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "P-Balloon",
+		"category": ["Powerups"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Yoshi",
+		"category": ["Skills"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Carry",
+		"category": ["Skills"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Run",
+		"category": ["Skills"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Climb",
+		"category": ["Skills"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Swim",
+		"category": ["Skills"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spin Jump",
+		"category": ["Skills"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Death Trap",
+		"category": ["Traps"],
+		"trap": true
+	},
+	{
+		"count": "5",
+		"name": "Stun Trap",
+		"category": ["Traps"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Mustard Blocks",
+		"category": ["Blocks"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Relish Blocks",
+		"category": ["Blocks"],
+		"progression": true
+	}
+]
